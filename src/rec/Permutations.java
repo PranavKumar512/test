@@ -18,6 +18,4 @@ public class Permutations {
             printPermutations(i+1, newString, perm+curr);
         }
     }
-
-
 }
